@@ -32,7 +32,7 @@ This project provides a solution for CNC cutting by converting G-code generated 
 <img src="output.png"/>
 3. **Convert to CNC Cutting G-code**: The script will make appropriate changes for CNC cutting, and the final G-code will be saved as `output1.gcode`.
 
-<img src="output1.png"/>
+<img src="!st_output.png"/>
 4. **Check Output Images**: Sample output can be seen checking the images `output.png` and `output1.png` representing the initial conversion and final CNC cutting G-code.
 
 ## Example
